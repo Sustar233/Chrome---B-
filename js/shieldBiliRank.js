@@ -1,5 +1,5 @@
 
-let blackList = ['啊吗粽', '我的音乐你听吗', '雨哥到处跑', 'TF家族'];
+let blackList = ['啊吗粽', '我的音乐你听吗', '雨哥到处跑', 'TF家族', '老师好我叫何同学'];
 
 if (window.location.pathname == '/video/online.html') {
     let lis = document.getElementsByClassName('ebox');
