@@ -1,7 +1,7 @@
 ### manifest.json
-    * chrome插件必不可少的文件，用来配置所有和插件相关的配置，必须放在根目录
-        * manifest_version、name、version3个是必不可少的
-        * description和icons是推荐的。
+* chrome插件必不可少的文件，用来配置所有和插件相关的配置，必须放在根目录
+    * manifest_version、name、version3个是必不可少的
+    * description和icons是推荐的。
 
 ```
 {
